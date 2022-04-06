@@ -3114,8 +3114,8 @@ fieldset:disabled .btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #5bb4e5;
-    border-color: #5bb4e5;
+    background-color: #af69ef;
+    border-color: #af69ef;
 }
 
 .btn-primary:hover {
@@ -3138,8 +3138,8 @@ fieldset:disabled .btn {
 .btn-primary:active,
 .show>.btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #0a58ca;
-    border-color: #0a53be
+    background-color: #212529;
+    border-color: #212529;
 }
 
 .btn-check:active+.btn-primary:focus,
@@ -3153,27 +3153,27 @@ fieldset:disabled .btn {
 .btn-primary.disabled,
 .btn-primary:disabled {
     color: #fff;
-    background-color: #0d6efd;
-    border-color: #0d6efd
+    background-color: #212529;
+    border-color: #212529;
 }
 
 .btn-secondary {
     color: #fff;
-    background-color: #565ac5;
-    border-color: #565ac5;
+    background-color: #6c41a1;
+    border-color: #6c41a1;
 }
 
 .btn-secondary:hover {
     color: #fff;
-    background-color: #5c636a;
-    border-color: #565e64
+    background-color: #212529;
+    border-color: #212529;
 }
 
 .btn-check:focus+.btn-secondary,
 .btn-secondary:focus {
     color: #fff;
-    background-color: #5c636a;
-    border-color: #565e64;
+    background-color: #212529;
+    border-color: #212529;
     box-shadow: 0 0 0 .25rem rgba(130, 138, 145, .5)
 }
 
@@ -3183,8 +3183,8 @@ fieldset:disabled .btn {
 .btn-secondary:active,
 .show>.btn-secondary.dropdown-toggle {
     color: #fff;
-    background-color: #565e64;
-    border-color: #51585e
+    background-color: #212529;
+    border-color: #212529;
 }
 
 .btn-check:active+.btn-secondary:focus,
@@ -7963,11 +7963,11 @@ fieldset:disabled .btn {
 }
 
 .text-primary {
-    color: #5bb4e5 !important
+    color: #af69ef !important
 }
 
 .text-secondary {
-    color: #6c757d !important
+    color: #6c41a1 !important
 }
 
 .text-success {
@@ -8035,11 +8035,11 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-    background-color: #5bb4e5 !important
+    background-color: #af69ef !important
 }
 
 .bg-secondary {
-    background-color: #565ac5 !important
+    background-color: #6c41a1 !important
 }
 
 .bg-success {

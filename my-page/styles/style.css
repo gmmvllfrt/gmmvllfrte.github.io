@@ -1,10 +1,17 @@
 
 /*  #5bb4e5 - blue,
     #565ac5 - light purple,
-    #49359b - dark purple
+    #49359b - dark purple,    
+    #452a68 - dark purple,
+
+    #af69ef - purple - primary
+    #6c41a1 - light purple, - secondary
+    #3a3b3c - dark gray, -bg color
+    #e39ff6 - lilac - super light
 */
+
 body {
-    background-color: #49359b !important;
+    background-color: #3a3b3c !important;
 }
 
 .p {
