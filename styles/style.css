@@ -1,0 +1,45 @@
+
+/*  #5bb4e5 - blue,
+    #565ac5 - light purple,
+    #49359b - dark purple
+*/
+body {
+    background-color: #49359b !important;
+}
+
+.p {
+    color: #d63384 !important
+} */
+
+
+img {
+    width: 100%;
+    height: 100%
+}
+
+.skill-block {
+    width: 30%
+}
+
+@media (min-width: 991px) and (max-width:1200px) {
+    .skill-block {
+        padding: 32px !important
+    }
+}
+
+@media (min-width: 1200px) {
+    .skill-block {
+        padding: 56px !important
+    }
+}
+
+.profile-pic {
+  border-radius: 50%;
+  width: 450px;
+  height: 450px;
+}
+
+.dropdown-item:hover {
+  background-color: #49359b !important;
+  color: white !important;
+}
