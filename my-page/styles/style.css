@@ -50,3 +50,32 @@ img {
   background-color: #49359b !important;
   color: white !important;
 }
+
+.linked-text {
+    color: white;
+    text-decoration: none; /* Remove underline by default */
+}
+
+.linked-text:hover {
+    color: violet;
+    text-decoration: underline; /* Add underline on hover */
+}
+
+.portfolio-image {
+    width: 100%; /* Ensure the image fills its container */
+    height: 125px; /* Set a fixed height for uniformity */
+    background-color: white; /* Set white background */
+    object-fit: contain; /* Ensure the image covers the entire container */
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.grid-item {
+    width: 100%; /* Ensure grid items occupy full width */
+    text-align: center;
+}
